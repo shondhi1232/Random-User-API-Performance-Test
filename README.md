@@ -5,7 +5,7 @@
  
 ## How to run this project
  -clone this project
- -write the 
+ -Set the ```protocol[hhtps]``` and  ```Server name or IP```
  
 ## Prerequisit
  -Jmeter and java must be installed
