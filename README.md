@@ -3,10 +3,14 @@
 ## Technology and tools:
  -Jmeter
  
+## How to run this project
+ -clone this project
+ -write the 
+ 
 ## Prerequisit
  -Jmeter and java must be installed
  
-## Server documentation:
+## Documentation:
  - Url: https://random-data-api.com/api/v2/users
  
 ## Report
