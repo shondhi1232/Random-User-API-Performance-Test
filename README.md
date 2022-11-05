@@ -8,6 +8,8 @@
  
  -Set the ```protocol[hhtps]``` and  ```Server name or IP```
  
+ -Write the ```number of Threads``` and ```Ram-up period (second)```
+ 
 ## Prerequisit
  -Jmeter and java must be installed
  
