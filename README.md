@@ -1,23 +1,23 @@
 # Random-User-API-Performance-Test
 
 ## Technology and tools:
- -Jmeter
+ - Jmeter
  
 ## How to run this project
- -clone this project
+ - clone this project
  
- -Set the ```protocol[hhtps]```,  ```Server name or IP```, and ```Path```
+ - Set the ```protocol[hhtps]```,  ```Server name or IP```, and ```Path```
  
- -Write the ```number of Threads``` and ```Ram-up period (second)```
+ - Write the ```number of Threads``` and ```Ram-up period (second)```
  
 ## Prerequisit
- -Jmeter and java must be installed
+ - Jmeter and java must be installed
  
 ## Documentation:
  - Url: https://random-data-api.com/api/v2/users
  
 ## Report
--Given in the resource file
+- Given in the resource file
 
 ## Output of the report of load test:
 
