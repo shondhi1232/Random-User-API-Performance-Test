@@ -6,7 +6,7 @@
 ## How to run this project
  - clone this project
  
- - Set the ```protocol[hhtps]```,  ```Server name or IP```, and ```Path```
+ - Set the ```protocol[https]```,  ```Server name or IP```, and ```Path```
  
  - Write the ```number of Threads``` and ```Ram-up period (second)```
  
